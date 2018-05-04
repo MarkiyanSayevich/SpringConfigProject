@@ -1,1 +1,1 @@
-Spring project configuration
+Spring project configuration ;)
